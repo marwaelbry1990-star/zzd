@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zzd-ten.vercel.app/sitemap.xml
